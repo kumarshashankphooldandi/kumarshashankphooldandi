@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Research and Development**
 
-- 💬 Ask me about **Cryptography, Hardware Security, Digital Forensics, Network Security, Cloud Security, Satellite Security, Automotive Security, Blockchain.**
+- 💬 Ask me about **Cryptography, Hardware Security, Digital Forensics, Network Security, Cloud Security, Satellite Security, Automotive Security, and Blockchain.**
 
 - 📫 How to reach me **kumarshashank813@gmail.com**
 
